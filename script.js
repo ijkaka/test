@@ -26,3 +26,5 @@ function calculateResult() {
 function appendValue(buttonValue) {
     inputFieldEl.value += buttonValue;    
 }
+
+// console.log("Committed!");
